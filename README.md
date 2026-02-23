@@ -3,8 +3,7 @@
 Ce dépôt présente plusieurs incarnations d'un jeu de logique classique : trouver une combinaison secrète de 4 chiffres. 
 #
 Il met particulièrement en lumière son implémentation originelle en **BASIC** pour les ordinateurs 8-bits **Thomson TO7 et MO5**, témoignage d'une époque où la programmation commençait au collège ou dans sa chambre.
-#
-## 🕰️ L'Ancêtre Historique : `cadenas.bas`
+
 #
 Lien du téléchargement : https://justbasic.com/
 #
