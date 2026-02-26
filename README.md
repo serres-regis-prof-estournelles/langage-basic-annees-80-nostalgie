@@ -1,4 +1,4 @@
-**Un jeu de logique classique en BASIC pour TO7/MO5 (milieu des années 80).**
+## Un jeu de logique classique en BASIC pour TO7/MO5 (milieu des années 80).
 
 Ce dépôt présente plusieurs incarnations d'un jeu de logique classique : trouver une combinaison secrète de 4 chiffres. 
 #
@@ -35,13 +35,13 @@ Au cœur de ce projet se trouve `cadenas.bas`. Ce n'est pas seulement un program
 #
 4️⃣ À chaque proposition, l'ordinateur donne un feedback :
 #
-    *   `BIEN PLACES` : Chiffre correct et à la bonne position (sans indiquer lesquels). 
+► Nombre de **chiffres bien placés** : Chiffre(s) correct(s) et à la bonne position (**sans indiquer lesquels**, c'est toute la difficulté du jeu). 
 #
-    *   `MAL PLACES` : Chiffre correct mais à la mauvaise position (sans indiquer lesquels).
+► Nombre de **chiffres mal placés** : Chiffre(s) correc(s) mais à la mauvaise position (**sans indiquer lesquels**).
 #   
-    *   `But du jeu : déduire le code secret et gagner la partie en moins de 10 essais.
+► But du jeu : déduire le **code secret** et gagner la partie en moins de **10 essais**.
 #
 ## Le geek des années 80, c'est la 2CV : quand ton jeu plante, tu sors le manuel, tu regardes sous le capot (le code), et avec un peu d'huile de coude (et un GOTO bien placé), ça redémarre. C'est lent, ça vibre, mais tu comprends comment ça marche 😀.
 ## Le geek d'aujourd'hui, c'est la Tesla : quand ça plante, tu fais une mise à jour OTA en espérant que le bug soit fixé. C'est rapide, c'est fluide, mais si l'écran tactile meurt, tu ne sais même pas où est le capot 😀.
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
