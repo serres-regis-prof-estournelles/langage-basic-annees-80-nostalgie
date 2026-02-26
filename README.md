@@ -5,7 +5,7 @@ Ce dépôt présente plusieurs incarnations d'un jeu de logique classique : trou
 Il met particulièrement en lumière son implémentation originelle en **BASIC** pour les ordinateurs 8-bits **Thomson TO7 et MO5**, témoignage d'une époque où la programmation commençait au collège ou dans sa chambre.
 
 #
-Lien du téléchargement : https://justbasic.com/
+Lien du téléchargement : **https://justbasic.com/** ou exécuter le fichier **jb20setup.exe**.
 #
 Au cœur de ce projet se trouve `cadenas.bas`. Ce n'est pas seulement un programme, c'est une **capsule temporelle**.
 #
